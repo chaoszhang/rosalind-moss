@@ -1,6 +1,6 @@
 # Rosalind Plagiarism Checker
 
-Simple script to export code from Rosalind and run it through the Moss plagiarism checker
+Simple script to export code from Rosalind and run it through its own plagiarism checker
 
 ## Getting Started
 
